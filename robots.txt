@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://passageatstaugustine.pages.dev/sitemap.xml
