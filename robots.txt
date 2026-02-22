@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://passageatstaugustine.pages.dev/sitemap.xml
+Sitemap: https://passageatstaugustine.com/sitemap.xml
