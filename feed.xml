@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Passage at St. Augustine</title>
+    <link>https://passageatstaugustine.pages.dev</link>
+    <description>Latest posts from Passage at St. Augustine</description>
+    <language>en-us</language>
+    <lastBuildDate>2026-02-21</lastBuildDate>
+    <atom:link href="https://passageatstaugustine.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Power of Documentary Storytelling in Shaping Public Discourse</title>
+      <link>https://passageatstaugustine.pages.dev/blog/the-power-of-documentary-storytelling-in-shaping-public-discourse/</link>
+      <description>The Power of Documentary Storytelling in Shaping Public Discourse — an in-depth exploration with evidence-based insights.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+  </channel>
+</rss>
