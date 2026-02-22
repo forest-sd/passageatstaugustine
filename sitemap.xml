@@ -18,4 +18,34 @@
   <url><loc>https://passageatstaugustine.com/sitemap.html</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://passageatstaugustine.com/feed.xml</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://passageatstaugustine.com/robots.txt</loc><lastmod>2026-02-21</lastmod></url>
+  <url>
+    <loc>https://passageatstaugustine.com/blog/aging-in-place-technology-innovations-for-seniors/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://passageatstaugustine.com/blog/financial-planning-for-long-term-senior-care/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://passageatstaugustine.com/blog/intergenerational-living-communities-a-growing-trend/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://passageatstaugustine.com/blog/nutrition-and-wellness-programs-in-retirement-living/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://passageatstaugustine.com/blog/social-isolation-in-seniors-causes-and-solutions/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
